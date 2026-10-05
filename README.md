@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Dr Mohsen Kakavand academic profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mohsenkakavand/mohsenkakavand/main/assets/profile-banner.svg" alt="Dr Mohsen Kakavand academic profile banner" width="100%" />
 </p>
 
 <p align="center">
