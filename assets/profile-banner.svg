@@ -1,1 +1,18 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Dr Mohsen Kakavand academic profile banner</title>
+  <desc id="desc">Academic profile banner for Dr Mohsen Kakavand, Lecturer and Researcher in Cybersecurity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#102a56"/>
+      <stop offset="55%" stop-color="#0b67e3"/>
+      <stop offset="100%" stop-color="#0aa39a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="58" r="145" fill="#ffffff" opacity="0.06"/>
+  <circle cx="1140" cy="225" r="105" fill="#d89a21" opacity="0.18"/>
+  <text x="64" y="92" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Dr Mohsen Kakavand</text>
+  <text x="64" y="138" fill="#e9f2ff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Lecturer &amp; Researcher in Cybersecurity Â· IEEE Senior Member</text>
+  <text x="64" y="178" fill="#dce9f8" font-family="Arial, Helvetica, sans-serif" font-size="20">Hanze University of Applied Sciences Â· The Netherlands</text>
+  <text x="64" y="217" fill="#fff2c7" font-family="Arial, Helvetica, sans-serif" font-size="18">AI Engineering Â· Machine Learning Â· Digital Forensics Â· Cybersecurity Â· LLMs</text>
+</svg>
